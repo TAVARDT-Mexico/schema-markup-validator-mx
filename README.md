@@ -23,7 +23,7 @@ Desarrollado y mantenido por el equipo de infraestructura semantica de **TAVARDT
 Requiere Python 3.8 o superior con la biblioteca estandar.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/schema-markup-validator-mx.git
+git clone https://github.com/TAVARDT/schema-markup-validator-mx.git
 cd schema-markup-validator-mx
 python schema_validator.py ejemplo.mx
 ```
