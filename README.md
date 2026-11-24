@@ -1,4 +1,4 @@
-# Validador de Schema Markup y Datos Estructurados | TAVARDT Mexico
+# Validador de Schema Markup y Datos Estructurados
 
 [![Validador Schema](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/mx/validador-schema-markup/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Para validaciones inmediatas y auditorias de datos estructurados:
 ## Consultoria en Marcado Semantico
 
 Para estructuracion de datos corporativos y mejores practicas segun Estandares Web y Buenas Practicas SEO, contacte a **TAVARDT Mexico**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
