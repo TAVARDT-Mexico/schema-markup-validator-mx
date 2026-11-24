@@ -5,7 +5,7 @@
 
 Auditoria de datos estructurados Schema.org JSON-LD y Microdata, validacion de entidades corporativas y elegibilidad para rich snippets.
 
-Desarrollado y mantenido por el equipo de infraestructura semantica de **TAVARDT Mexico**.
+Desarrollado y mantenido por el equipo de infraestructura semantica de **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python schema_validator.py ejemplo.mx -json
 Para validaciones inmediatas y auditorias de datos estructurados:
 
 * **Validador de Schema Markup Oficial**
-* **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
 
 ***
 
 ## Consultoria en Marcado Semantico
 
-Para estructuracion de datos corporativos y mejores practicas segun Estandares Web y Buenas Practicas SEO, contacte a **TAVARDT Mexico**.
+Para estructuracion de datos corporativos y mejores practicas segun Estandares Web y Buenas Practicas SEO, contacte a **TAVARDT**.
 
 ***
 
